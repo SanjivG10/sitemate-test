@@ -18,7 +18,7 @@
 .open {
     visibility: visible;
     opacity: 1;
-    transition-delay: 0s;
+    transition-delay: 0.3s;
 }
 
 .msg-container {
@@ -27,7 +27,7 @@
 
 .modal-bg {
     position: absolute;
-    background: #bfbfbf;
+    background-color: #bfbfbf;
     width: 100%;
     height: 100%;
 }
